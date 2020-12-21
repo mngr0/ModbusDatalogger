@@ -1,0 +1,3 @@
+[submodule "MD-django"]
+	path = MD-django
+	url = git@github.com:mngr0/MD-django.git
